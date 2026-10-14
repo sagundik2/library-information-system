@@ -1,4 +1,4 @@
-INSERT INTO categories (category_id, name, description) VALUES
+﻿INSERT INTO categories (category_id, name, description) VALUES
 (1, 'Роман', 'Көркем әдебиеттің кең таралған жанры'),
 (2, 'Поэзия', 'Өлеңдер мен дастандар'),
 (3, 'Тарихи', 'Тарихи оқиғалар туралы кітаптар'),

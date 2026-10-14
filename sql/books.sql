@@ -1,4 +1,4 @@
-INSERT INTO books (book_id, title, author, isbn, year, quantity, available, category_id) VALUES
+﻿INSERT INTO books (book_id, title, author, isbn, year, quantity, available, category_id) VALUES
 (1, 'Абай жолы', 'Мұхтар Әуезов', '978-601-001-01', 1942, 5, 5, 1),
 (2, 'Қан мен тер', 'Әбдіжәміл Нұрпейісов', '978-601-001-02', 1961, 3, 3, 1),
 (3, 'Көшпенділер', 'Ілияс Есенберлин', '978-601-001-03', 1969, 4, 4, 3),

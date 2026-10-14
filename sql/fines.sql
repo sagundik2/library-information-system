@@ -1,0 +1,3 @@
+﻿INSERT INTO fines (fine_id, order_id, amount, paid, created_date) VALUES
+(1, 4, 500.00, FALSE, '2026-09-30'),
+(2, 2, 200.00, TRUE, '2026-09-20');
